@@ -1,0 +1,1 @@
+insert into Products (Name, description, Price, ImageURL) values ($1, $2, $3, $4)
